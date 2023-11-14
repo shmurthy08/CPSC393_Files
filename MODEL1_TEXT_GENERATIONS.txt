@@ -1,0 +1,120 @@
+Iteration 1: 
+Selected text: certainty he could just understand said his father almost as a question his sister shook her hand vigorously through her tears as a sign that of that there was no question he could just understand repeated father closing his eyes in acceptance of his certainty that that was quite impossible perhaps we could come to some kind of arrangement with him but as it is got to shouted his sister the only way father got to get rid of the idea that gregor only harmed ourselves by believing it for so long how can that be gregor if it were gregor
+Generated Text: accumulated deeper in he would be woke a or following he finally suggested he had simply decided that it much better she had to stay but he could be noticed he could scurry in the couch and sister of course he could not have to bend up between the money
+Original Text:
+he would have seen long ago that not possible for human beings to live with an animal like that and he would have gone of his own free will we have a brother any more then but we could carry on with our lives and remember him with respect as
+
+Generated Text:
+accumulated deeper in he would be woke a or following he finally suggested he had simply decided that it much better she had to stay but he could be noticed he could scurry in the couch and sister of course he could not have to bend up between the money
+
+BLEU Score: 0.04494780405208268
+METEOR Score: 0.16
+
+Iteration 2: 
+Selected text: women came away from the landing and went as if relieved back into the flat they decided the best way to make use of that day was for relaxation and to go for a walk not only had they earned a break from work but they were in serious need of it so they sat at the table and wrote three letters of excusal mr samsa to his employers mrs samsa to her contractor and grete to her principal the cleaner came in while they were writing to tell them she was going finished her work for that morning the three
+Generated Text: gentlemen had already pushed her other one open the door which could be in look after it and would be sacked on the spot and it would almost to the chest of drawers and the desk but he had not not even even the family he took his mother accused
+Original Text:
+of them at first just nodded without looking up from what they were writing and it was only when the cleaner still did not seem to want to leave that they looked up in irritation asked mr samsa the charwoman stood in the doorway with a smile on her face
+
+Generated Text:
+gentlemen had already pushed her other one open the door which could be in look after it and would be sacked on the spot and it would almost to the chest of drawers and the desk but he had not not even even the family he took his mother accused
+
+BLEU Score: 0.04398061912077474
+METEOR Score: 0.16
+
+Iteration 3: 
+Selected text: so gregor did not go into the room but leant against the inside of the other door which was still held bolted in place in this way only half of his body could be seen along with his head above it which he leant over to one side as he peered out at the others meanwhile the day had become much lighter part of the endless greyblack building on the other side of the was a be seen quite clearly with the austere and regular line of windows piercing its façade the rain was still falling now throwing down large individual
+Generated Text: droplets which hit the ground one at a time the washing up from breakfast lay on the table there was more than later than she not not even the family chief clerk was quickly out of them but she would be woke from it in alarm because of it remained
+Original Text:
+droplets which hit the ground one at a time the washing up from breakfast lay on the table there was so much of it because for father breakfast was the most important meal of the day and he would stretch it out for several hours as he sat reading a
+
+Generated Text:
+droplets which hit the ground one at a time the washing up from breakfast lay on the table there was more than later than she not not even the family chief clerk was quickly out of them but she would be woke from it in alarm because of it remained
+
+BLEU Score: 0.4338269406033419
+METEOR Score: 0.4698810939357907
+
+Iteration 4: 
+Selected text: her she hurried out again and even turned the key in the lock so that gregor would know he could make things as comfortable for himself as he liked little legs whirred at last he could eat more his injuries must already have completely healed as he found no difficulty in moving this amazed him as more than a month earlier he had cut his finger slightly with a knife he thought of how his finger had still hurt the day before yesterday i less sensitive than i used to be he thought and was already sucking greedily at the cheese
+Generated Text: which had already already often left one did not think of course she had threatened his head and sister would understand up a life his head bent near to him and even has an appreciation of the hand he must say largely when he chose the way dominated once now
+Original Text:
+which had immediately almost compellingly attracted him much more than the other foods on the newspaper quickly one after another his eyes watering with pleasure he consumed the cheese the vegetables and the sauce the fresh foods on the other hand he like at all and even dragged the things
+
+Generated Text:
+which had already already often left one did not think of course she had threatened his head and sister would understand up a life his head bent near to him and even has an appreciation of the hand he must say largely when he chose the way dominated once now
+
+BLEU Score: 0.054532637664667406
+METEOR Score: 0.17804444444444445
+
+Iteration 5: 
+Selected text: room at the same time as trying to block their view of gregor with his body now they did become a little annoyed and it was not clear whether it was his behaviour that annoyed them or the dawning realisation that they had had a neighbour like gregor in the next room without knowing it they asked father for explanations raised their arms like he had tugged excitedly at their beards and moved back towards their room only very slowly meanwhile sister had overcome the despair she had fallen into when her playing was suddenly interrupted she had let her hands
+Generated Text: for each quiet made him than more than what he had become strict at him there was something wrong that she had not even even in her first heavily peacefully with it side as his voice and would not catch a serious comment that made him father please make him
+Original Text:
+drop and let violin and bow hang limply for a while but continued to look at the music as if still playing but then she suddenly pulled herself together lay the instrument on her lap who still sat laboriously struggling for breath where she was and ran into the next
+
+Generated Text:
+for each quiet made him than more than what he had become strict at him there was something wrong that she had not even even in her first heavily peacefully with it side as his voice and would not catch a serious comment that made him father please make him
+
+BLEU Score: 0.03415294551044768
+METEOR Score: 0.11
+
+Iteration 6: 
+Selected text: failure of his plan and perhaps also because he was weak from hunger made it impossible for him to move he was sure that everyone would turn on him any moment and he waited he was not even startled out of this state when the violin on his lap fell from her trembling fingers and landed loudly on the floor said his sister hitting the table with her hand as introduction carry on like this maybe you see it but i can i want to call this monster my brother all i can say is we have to try and get
+Generated Text: dressed in people long far or position for the same time during the others was sat at its bushy façade the rain was glad that i cause me quite kind of caustic hopes which hit around himself onto the sill and regard for him she always point in front door
+Original Text:
+rid of it done all humanly possible to look after it and be patient i think anyone could accuse us of doing anything absolutely said father to himself his mother who still had not had time to catch her breath began to cough dully her hand held out in front
+
+Generated Text:
+dressed in people long far or position for the same time during the others was sat at its bushy façade the rain was glad that i cause me quite kind of caustic hopes which hit around himself onto the sill and regard for him she always point in front door
+
+BLEU Score: 0.039281465090051294
+METEOR Score: 0.11679012345679013
+
+Iteration 7: 
+Selected text: had at last got his head out of the bed and into the fresh air it occurred to him that if he let himself fall it would be a miracle if his head were not injured so he became afraid to carry on pushing himself forward the same way and he could not knock himself out now at any price better to stay in bed than lose consciousness it took just as much effort to get back to where he had been earlier but when he lay there sighing and was once more watching his legs as they struggled against each
+Generated Text: other in this sight he too to live around the better he felt at him mr samsa we breakfasts i was later at a precaution after they had spoken in that grete would let her mother eventually though though was been sold when his father had realised at him to
+Original Text:
+other even harder than before if that was possible he could think of no way of bringing peace and order to this chaos he told himself once more that it was not possible for him to stay in bed and that the most sensible thing to do would be to
+
+Generated Text:
+other in this sight he too to live around the better he felt at him mr samsa we breakfasts i was later at a precaution after they had spoken in that grete would let her mother eventually though though was been sold when his father had realised at him to
+
+BLEU Score: 0.045856299526548516
+METEOR Score: 0.14
+
+Iteration 8: 
+Selected text: hurt as much as when it was new after they had come back from taking his father to bed mother and sister would now leave their work where it was and sit close together cheek to cheek his mother would point to room and say that door and then when he was in the dark again they would sit in the next room and their tears would mingle or they would simply sit there staring dryeyed at the table gregor hardly slept at all either night or day sometimes he would think of taking over the affairs just like before the
+Generated Text: room was quickly back with the meantime but it had originally point in order to mother and had to overcome the door off once so you much way as if i let him keep too broad to get the sound home he would both angry and there for the interest
+Original Text:
+next time the door was opened he had long forgotten about his boss and the chief clerk but they would appear again in his thoughts the salesmen and the apprentices that stupid teaboy two or three friends from other businesses one of the chambermaids from a provincial hotel a tender
+
+Generated Text:
+room was quickly back with the meantime but it had originally point in order to mother and had to overcome the door off once so you much way as if i let him keep too broad to get the sound home he would both angry and there for the interest
+
+BLEU Score: 0.045856299526548516
+METEOR Score: 0.15
+
+Iteration 9: 
+Selected text: untouched she still cleared up the room in the evening but now she could not have been any quicker about it smears of dirt were left on the walls here and there were little balls of dust and filth at first gregor went into one of the worst of these places when his sister arrived as a reproach to her but he could have stayed there for weeks without his sister doing anything about it she could see the dirt as well as he could but she had simply decided to leave him to it at the same time she became
+Generated Text: touchy in him that had to be able to be very hard but were quiet slowly all the other room were full balls of music and a walk on the contract these gentlemen immediately in all the other room during one direction these other room did not let the voice
+Original Text:
+touchy in a way that was quite new for her and which everyone in the family up room was for her and her alone mother did once thoroughly clean his room and needed to use several bucketfuls of water to do that much dampness also made gregor ill and he
+
+Generated Text:
+touchy in him that had to be able to be very hard but were quiet slowly all the other room were full balls of music and a walk on the contract these gentlemen immediately in all the other room during one direction these other room did not let the voice
+
+BLEU Score: 0.045856299526548516
+METEOR Score: 0.1679081632653061
+
+Iteration 10: 
+Selected text: into a friendly laugh that made her unable to speak straight away then that thing in there you worry about how going to get rid of it all been sorted mrs samsa and grete bent down over their letters as if intent on continuing with what they were writing mr samsa saw that the cleaner wanted to start describing everything in detail but with outstretched hand he made it quite clear that she was not to so as she was prevented from telling them all about it she suddenly remembered what a hurry she was in and clearly peeved called out
+Generated Text: of the hearing pressed around him one on the landing he was put from from the wall i let it were more slightly on one of them is something that could have to see about the chief clerk even well at least you understand it in him to have in
+Original Text:
+then turned round sharply and left slamming the door terribly as she went she gets said mr samsa but he received no reply from either his wife or his daughter as the charwoman seemed to have destroyed the peace they had only just gained they got up and went over
+
+Generated Text:
+of the hearing pressed around him one on the landing he was put from from the wall i let it were more slightly on one of them is something that could have to see about the chief clerk even well at least you understand it in him to have in
+
+BLEU Score: 0.039281465090051294
+METEOR Score: 0.11679012345679013
+

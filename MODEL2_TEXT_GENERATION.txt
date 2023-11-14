@@ -1,0 +1,120 @@
+Complex Model Iteration 1: 
+Selected text: been going on without even knowing what caused them please go away at least first say something to show that you grant that at least partly but the chief clerk had turned away as soon as gregor had started to speak and with protruding lips only stared back at him over his trembling shoulders as he left he did not keep still for a moment while gregor was speaking but moved steadily towards the door without taking his eyes off him he moved very gradually as if there had been some secret prohibition on leaving the room it was only when
+Generated Text: he had reached the door that he could simply lie too slow and even the opportunity to bring in behind her earn money that was even more than more than ever to go back again he was still totally around how she had originally trying to ask thought very hard
+Original Text:
+he had reached the entrance hall that he made a sudden movement drew his foot from the living room and rushed forward in a panic in the hall he stretched his right hand far out towards the stairway as if out there there were some supernatural force waiting to save
+
+Generated Text:
+he had reached the door that he could simply lie too slow and even the opportunity to bring in behind her earn money that was even more than more than ever to go back again he was still totally around how she had originally trying to ask thought very hard
+
+BLEU Score: 0.0865534041655436
+METEOR Score: 0.13
+
+Complex Model Iteration 2: 
+Selected text: room exactly the way it was before so that when gregor comes back to us again find everything unchanged and be able to forget the time in between all the hearing these words from his mother made gregor realise that the lack of any direct human communication along with the monotonous life led by the family during these two months must have made him could think of no other way of explaining to himself why he had seriously wanted his room emptied out had he really wanted to transform his room into a cave a warm room fitted out with the
+Generated Text: nice furniture he had inherited that had had not still leave him against his head and mother and mother was glad that she approached the room gregor could be the woman words of greeting and i unsuccessfully alone indicating that caution he could be woke against it in staring watching
+Original Text:
+nice furniture he had inherited that would have let him crawl around unimpeded in any direction but it would also have let him quickly forget his past when he had still been human he had come very close to forgetting and it had only been the voice of his mother
+
+Generated Text:
+nice furniture he had inherited that had had not still leave him against his head and mother and mother was glad that she approached the room gregor could be the woman words of greeting and i unsuccessfully alone indicating that caution he could be woke against it in staring watching
+
+BLEU Score: 0.13844239578249937
+METEOR Score: 0.24390581717451523
+
+Complex Model Iteration 3: 
+Selected text: for her to breathe she ran to his father her skirts unfastened and sliding one after another to the ground stumbling over the skirts she pushed herself to his father her arms around him uniting herself with him gregor lost his ability to see hands behind his head begging him to spare life iii noone dared to remove the apple lodged in flesh so it remained there as a visible reminder of his injury he had suffered it there for more than a month and his condition seemed serious enough to remind even his father that gregor despite his current sad
+Generated Text: and revolting form was a loud confidence that they did not know to clean up with his screams to go up from the kitchen conversation at anywhere or than that she would not be neglected as they had not the whole room from this lower times she could not even
+Original Text:
+and revolting form was a family member who could not be treated as an enemy on the contrary as a family there was a duty to swallow any revulsion for him and to be patient just to be patient because of his injuries gregor had lost much of his permanently
+
+Generated Text:
+and revolting form was a loud confidence that they did not know to clean up with his screams to go up from the kitchen conversation at anywhere or than that she would not be neglected as they had not the whole room from this lower times she could not even
+
+BLEU Score: 0.11892071150027214
+METEOR Score: 0.2120918367346939
+
+Complex Model Iteration 4: 
+Selected text: if he had been suddenly overcome with humility and wanted permission again from mr samsa for his decision mr samsa merely opened his eyes wide and briefly nodded to him several times at that and without delay the man actually did take long strides into the front hallway his two friends had stopped rubbing their hands some time before and had been listening to what was being said now they jumped off after their friend as if taken with a sudden fear that mr samsa might go into the hallway in front of them and break the connection with their leader
+Generated Text: where he could be seen along with his little life it spring would mother came every place and different from the door and stood out from the wall or recommend me to and while he could jumped up without sit at pangs of order to back teeth screamed very enough
+Original Text:
+once there all three took their hats from the stand took their sticks from the holder bowed without a word and left the premises mr samsa and the two women followed them out onto the landing but they had had no reason to mistrust the intentions and as they leaned
+
+Generated Text:
+where he could be seen along with his little life it spring would mother came every place and different from the door and stood out from the wall or recommend me to and while he could jumped up without sit at pangs of order to back teeth screamed very enough
+
+BLEU Score: 0.04752651635942958
+METEOR Score: 0.12
+
+Complex Model Iteration 5: 
+Selected text: that they had expected to hear some beautiful or entertaining violin playing but had been disappointed that they had had enough of the whole performance and it was only now out of politeness that they allowed their peace to be disturbed it was especially unnerving the way they all blew the smoke from their cigarettes upwards from their mouth and noses yet sister was playing so beautifully her face was leant to one side following the lines of music with a careful and melancholy expression gregor crawled a little further forward keeping his head close to the ground so that he
+Generated Text: the boss had been rented at least any act of different from the bed has not always usually sent back everything again but he was it he were calm repelled one and other people into her head trips had already dissuade her foot there she could not be sold the
+Original Text:
+could meet her eyes if the chance came was he an animal if music could captivate him so it seemed to him that he was being shown the way to the unknown nourishment he had been yearning for he was determined to make his way forward to his sister and
+
+Generated Text:
+the boss had been rented at least any act of different from the bed has not always usually sent back everything again but he was it he were calm repelled one and other people into her head trips had already dissuade her foot there she could not be sold the
+
+BLEU Score: 0.04974292207467277
+METEOR Score: 0.14
+
+Complex Model Iteration 6: 
+Selected text: an apple thrown without much force glanced against back and slid off without doing any harm another one however immediately following it hit squarely and lodged in his back gregor wanted to drag himself away as if he could remove the surprising the incredible pain by changing his position but he felt as if nailed to the spot and spread himself out all his senses in confusion the last thing he saw was the door of his room being pulled open his sister was screaming his mother ran out in front of her in her blouse as his sister had taken
+Generated Text: properly off it she would have enter she had not not leave him from themselves as it he could advise his mother in her left along with the eight meters of his room really could not be used to the chest of drawers and the day he had never to
+Original Text:
+off some of her clothes after she had fainted to make it easier for her to breathe she ran to his father her skirts unfastened and sliding one after another to the ground stumbling over the skirts she pushed herself to his father her arms around him uniting herself with
+
+Generated Text:
+properly off it she would have enter she had not not leave him from themselves as it he could advise his mother in her left along with the eight meters of his room really could not be used to the chest of drawers and the day he had never to
+
+BLEU Score: 0.053452248382484864
+METEOR Score: 0.2083641975308642
+
+Complex Model Iteration 7: 
+Selected text: it would cause great expense that would have to be made up for in some other way during short periods in town conversation with his sister would often turn to the conservatory but it was only ever mentioned as a lovely dream that could never be realised their parents did not like to hear this innocent talk but gregor thought about it quite hard and decided he would let them know what he planned with a grand announcement of it on christmas day that was the sort of totally pointless thing that went through his mind in his present state pressed
+Generated Text: upright against the door and pressed himself against the door with his room with his mouth and picked it a simple studies train these earnest three of them had full beards as gregor learned peering through the crack in the door one painfully insistent on being tidy this meant not
+Original Text:
+upright against the door and listening there were times when he simply became too tired to continue listening when his head would fall wearily against the door and he would pull it up again with a start as even the slightest noise he caused would be heard next door and
+
+Generated Text:
+upright against the door and pressed himself against the door with his room with his mouth and picked it a simple studies train these earnest three of them had full beards as gregor learned peering through the crack in the door one painfully insistent on being tidy this meant not
+
+BLEU Score: 0.13001186520687386
+METEOR Score: 0.19826989619377164
+
+Complex Model Iteration 8: 
+Selected text: improvement and abandoning him to cope for himself i think be best to leave the room exactly the way it was before so that when gregor comes back to us again find everything unchanged and be able to forget the time in between all the hearing these words from his mother made gregor realise that the lack of any direct human communication along with the monotonous life led by the family during these two months must have made him could think of no other way of explaining to himself why he had seriously wanted his room emptied out had he really
+Generated Text: wanted to transform his room into all up by this he have to overcome the door and shiny day him that was still more than later than the short legs so he had to blow himself up a little while he fell up and else he were emptying it looked
+Original Text:
+wanted to transform his room into a cave a warm room fitted out with the nice furniture he had inherited that would have let him crawl around unimpeded in any direction but it would also have let him quickly forget his past when he had still been human he had
+
+Generated Text:
+wanted to transform his room into all up by this he have to overcome the door and shiny day him that was still more than later than the short legs so he had to blow himself up a little while he fell up and else he were emptying it looked
+
+BLEU Score: 0.14184038706967037
+METEOR Score: 0.18
+
+Complex Model Iteration 9: 
+Selected text: this room was often kept closed in the evening but gregor found it easy to give up having the door open he had after all often failed to make use of it when it was open and without the family having noticed it lain in his room in its darkest corner one time though the charwoman left the door to the living room slightly open and it remained open when the gentlemen who rented the room came in in the evening and the light was put on they sat up at the table where formerly gregor had taken his meals with
+Generated Text: his eyes at all the fail to carry out your employer and really would certainly not any help to him there was something bad had to help him the chief clerk exclaim only that was something with rest again while he had never walking there to the first room during
+Original Text:
+his father and mother they unfolded the serviettes and picked up their knives and forks mother immediately appeared in the doorway with a dish of meat and soon behind her came his sister with a dish piled high with potatoes the food was steaming and filled the room with its
+
+Generated Text:
+his eyes at all the fail to carry out your employer and really would certainly not any help to him there was something bad had to help him the chief clerk exclaim only that was something with rest again while he had never walking there to the first room during
+
+BLEU Score: 0.03415294551044768
+METEOR Score: 0.08
+
+Complex Model Iteration 10: 
+Selected text: boy proud of posture with his tray on his head passed them on his way up and came nearer than they were mr samsa and the women came away from the landing and went as if relieved back into the flat they decided the best way to make use of that day was for relaxation and to go for a walk not only had they earned a break from work but they were in serious need of it so they sat at the table and wrote three letters of excusal mr samsa to his employers mrs samsa to her contractor and
+Generated Text: always picked it an effort to enjoy it was too very different from that way price she had recently carrying to make grete or mother and sister had taken him at all the light one of the evening as they could advise his mother in times she had been sold
+Original Text:
+grete to her principal the cleaner came in while they were writing to tell them she was going finished her work for that morning the three of them at first just nodded without looking up from what they were writing and it was only when the cleaner still did not
+
+Generated Text:
+always picked it an effort to enjoy it was too very different from that way price she had recently carrying to make grete or mother and sister had taken him at all the light one of the evening as they could advise his mother in times she had been sold
+
+BLEU Score: 0.04752651635942958
+METEOR Score: 0.19826989619377164
+
